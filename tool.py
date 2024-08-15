@@ -1,9 +1,19 @@
+import os
+from openai import OpenAI
 import pandas as pd
 import click
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
+from dotenv import load_dotenv
 import random
+import json
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Retrieve the OpenAI API key from environment variables
+MODEL = "gpt-4o-2024-08-06"
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 # Initialize the Sentence Transformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -27,11 +37,49 @@ def sample_clusters(df, n_clusters):
         samples.append(cluster_df.sample(min(10, len(cluster_df))))
     return pd.concat(samples)
 
-# Function to simulate LLM category refinement
+# Function to refine categories using OpenAI structured outputs
 def refine_categories(samples):
-    # Simulated refinement using an LLM (this could be replaced with an actual LLM API call)
-    # For now, we return a list of unique categories extracted from the samples
-    return list(set(samples['cluster'].apply(lambda x: f'Category-{x}')))
+    prompt = '''
+    You are an AI assistant that refines text clustering by assigning categories.
+    The input is a set of text clusters, and your task is to provide a category for each cluster.
+    These texts have been clustered together based on their content using BERT embeddings and KMeans clustering.
+    '''
+
+    # Sample JSON schema
+    json_schema = {
+        "name": "text_category",
+        'schema': {
+            "type": "object",
+            "properties": {
+                "categories": {
+                    "type": "array",
+                    "items": {"type": "string"}
+                }
+            },
+            "required": ["categories"],
+            "additionalProperties": False
+        },
+        "strict": True
+    }
+
+    # Prepare the input for the LLM
+    # clusters = samples.groupby('cluster')['text'].apply(lambda x: "\n".join(x))
+    clusters = samples.groupby('cluster')['text'].apply(lambda x: "\n".join(x)).to_dict()
+    clusters_json = json.dumps(clusters)
+
+    response = client.chat.completions.create(
+        model=MODEL,
+        messages=[
+            {"role": "system", "content": prompt},
+            {"role": "user", "content": clusters_json}
+        ],
+        response_format={
+            "type": "json_schema",
+            "json_schema": json_schema,
+        }
+    )
+
+    return response.choices[0].message.content
 
 @click.command()
 @click.argument('input_file', type=click.Path(exists=True))
@@ -49,8 +97,12 @@ def main(input_file, output_file):
     # Sample rows from each cluster
     samples = sample_clusters(df, n_clusters)
 
-    # Refine categories using a simulated LLM
+    # Refine categories using OpenAI's structured output
     refined_categories = refine_categories(samples)
+
+    refined_categories = json.loads(refined_categories)
+
+    refined_categories = refined_categories['categories']
 
     # Print the refined categories
     print("Refined Categories:", refined_categories)
