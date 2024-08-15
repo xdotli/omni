@@ -43,7 +43,6 @@ def refine_categories(samples, user_prompt):
     You are an AI assistant that refines text clustering by assigning categories.
     The input is a set of text clusters, and your task is to provide a category based on the clusters.
     The number of categories doesn't have to be the same as the number of clusters. Make sensible categories.
-    # You can also ignore the cluster field if you want. 
     These texts have been clustered together based on their content using BERT embeddings and KMeans clustering.
     User input: {user_prompt}
     '''

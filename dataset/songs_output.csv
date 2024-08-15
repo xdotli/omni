@@ -1,0 +1,920 @@
+id,text,cluster,category
+1,Everybody Everybody - Black Box,8,Dance and Electronic Hits
+2,Close To You - Maxi Priest,6,R&B and Soul Vibes
+3,Do Me! - Bell Biv DeVoe,2,R&B and Soul Vibes
+4,Everything - Jody Watley,7,R&B and Soul Vibes
+5,What It Takes - Aerosmith,6,Pop and Rock Classics
+6,Alright - Janet Jackson,5,R&B and Soul Vibes
+7,Love Song - Tesla,7,Soft Rock and Ballads
+8,Poison - Bell Biv DeVoe,2,R&B and Soul Vibes
+9,Enjoy The Silence - Depeche Mode,3,Alternative and Indie Playlist
+10,Free Fallin’ - Tom Petty,6,Soft Rock and Ballads
+11,Another Day In Paradise - Phil Collins,7,Emotional and Heartfelt Songs
+12,Forever - Kiss,9,Pop and Rock Classics
+13,It Must Have Been Love - Roxette,7,Emotional and Heartfelt Songs
+14,Unchained Melody - the Righteous Brothers,8,Emotional and Heartfelt Songs
+15,Dangerous - Roxette,3,Alternative and Indie Playlist
+16,We Didn’t Start The Fire - Billy Joel,7,Pop and Rock Classics
+17,Just A Friend - Biz Markie,3,Hip-Hop and Rap Anthems
+18,Swing The Mood - Jive Bunny and the Mastermixers,2,Dance and Electronic Hits
+19,The Power - Snap!,3,Dance and Electronic Hits
+20,Come Back To Me - Janet Jackson,5,R&B and Soul Vibes
+21,Nothing Compares 2 U - Sinéad O’Connor,4,Emotional and Heartfelt Songs
+22,Without You - Mötley Crüe,8,Nostalgic 90s Tunes
+23,Can’t Stop - After 7,4,R&B and Soul Vibes
+24,Black Velvet - Alannah Myles,8,Nostalgic 90s Tunes
+25,U Can’t Touch This - MC Hammer,2,Hip-Hop and Rap Anthems
+26,Hold On - Wilson Phillips,4,Emotional and Heartfelt Songs
+27,Hold On - En Vogue,4,R&B and Soul Vibes
+28,Step - STEP,3,Dance and Electronic Hits
+29,Ice Ice Baby - Vanilla Ice,8,Nostalgic 90s Tunes
+30,How Am I Supposed To Live Without You - Michael Bolton,7,Soft Rock and Ballads
+31,Pump Up The Jam - Technotronic featuring Felly,0,Dance and Electronic Hits
+32,Pray - M.C. Hammer,3,Hip-Hop and Rap Anthems
+33,Ready Or Not - After 7,4,R&B and Soul Vibes
+34,I Remember You - Skid Row,2,Pop and Rock Classics
+35,Jerk Out - The Time,4,R&B and Soul Vibes
+36,Vogue - Madonna,5,Dance and Electronic Hits
+37,All I Wanna Do Is Make Love To You - Heart,5,Soft Rock and Ballads
+38,Do You Remember - Phil Collins,7,Emotional and Heartfelt Songs
+39,Epic - Faith No More,7,Alternative and Indie Playlist
+40,Black Cat - Janet Jackson,5,Pop and Rock Classics
+41,I Wish It Would Rain Down - Phil Collins,6,Pop and Rock Classics
+42,All Around The World - Lisa Stansfield,1,R&B and Soul Vibes
+43,King Of Wishful Thinking - Go West,7,Nostalgic 90s Tunes
+44,No More Lies - Michel’le,7,R&B and Soul Vibes
+45,Blaze Of Glory - Jon Bon Jovi,8,Pop and Rock Classics
+46,The Humpty Dance - Digital Underground,8,Hip-Hop and Rap Anthems
+47,Don’t Wanna Fall In Love - Jane Child,5,Dance and Electronic Hits
+48,Just Like Jesse James - Cher,0,Pop and Rock Classics
+49,Romeo - Dino,2,Dance and Electronic Hits
+50,Something Happened On The Way To Heaven - Phil Collins,7,Pop and Rock Classics
+51,Unskinny Bop - Poison,8,Pop and Rock Classics
+52,I Don’t Have The Heart - James Ingram,7,Emotional and Heartfelt Songs
+53,Love Will Lead You Back - Taylor Dayne,5,Emotional and Heartfelt Songs
+54,Release Me - Wilson Phillips,2,Pop and Rock Classics
+55,Roam - The B-52s,2,Alternative and Indie Playlist
+56,Get Up! (BEFORE The Night Is Over) - Technotronic featuring Ya Kid K,8,Dance and Electronic Hits
+57,Vision Of Love - Mariah Carey,5,Emotional and Heartfelt Songs
+58,Whole Wide World - A’me Lorain,9,Alternative and Indie Playlist
+59,Feels Good - Tony! Toni! Tone!,0,R&B and Soul Vibes
+60,Sending All My Love - Linear,1,Dance and Electronic Hits
+61,Here And Now - Luther Vandross,7,R&B and Soul Vibes
+62,How Can We Be Lovers - Michael Bolton,7,Soft Rock and Ballads
+63,Escapade - Janet Jackson,5,Nostalgic 90s Tunes
+64,Oh Girl - Paul Young,9,Pop and Rock Classics
+65,Opposites Attract - Paula Abdul and The Wild Pair,1,Dance and Electronic Hits
+66,Praying For Time - George Michael,7,Pop and Rock Classics
+67,Back To Life (HOWEVER Do You Want Me) - Soul II Soul featuring Caron Wheeler,8,R&B and Soul Vibes
+68,Cradle Of Love - Billy Idol,7,Pop and Rock Classics
+69,Downtown Train - Rod Stewart,7,Soft Rock and Ballads
+70,More Than Words Can Say - Alias,3,Soft Rock and Ballads
+71,What Kind Of Man Would I Be? - Chicago,0,Pop and Rock Classics
+72,Rhythm Nation - Janet Jackson,5,Nostalgic 90s Tunes
+73,All Or Nothing - Milli Vanilli,9,Nostalgic 90s Tunes
+74,Don’t Know Much - Linda Ronstadt and Aaron Neville,5,Nostalgic 90s Tunes
+75,Blame It On The Rain - Milli Vanilli,4,Dance and Electronic Hits
+76,Have You Seen Her - MC Hammer,1,Hip-Hop and Rap Anthems
+77,I Go To Extremes - Billy Joel,6,Pop and Rock Classics
+78,Rub You The Right Way - Johnny Gill,0,R&B and Soul Vibes
+79,Here We Are - Gloria Estefan,5,Nostalgic 90s Tunes
+80,Just Between You And Me - Lou Gramm,6,Pop and Rock Classics
+81,When I’m Back On My Feet Again - Michael Bolton,7,Emotional and Heartfelt Songs
+82,Janie’s Got A Gun - Aerosmith,8,Pop and Rock Classics
+83,Whip Appeal - Babyface,2,R&B and Soul Vibes
+84,Thieves In The Temple - Prince,7,R&B and Soul Vibes
+85,Two To Make It Right - Seduction,1,Dance and Electronic Hits
+86,With Every Beat Of My Heart - Taylor Dayne,5,Emotional and Heartfelt Songs
+87,Giving You The Benefit - Pebbles,3,R&B and Soul Vibes
+88,I Wanna Be Rich - Calloway,2,Hip-Hop and Rap Anthems
+89,If Wishes Came True - Sweet Sensation,1,Dance and Electronic Hits
+90,Price Of Love - Bad English,3,Soft Rock and Ballads
+91,We Can’t Go Wrong - The Cover Girls,1,Dance and Electronic Hits
+92,Make You Sweat (#14) - Keith Sweat,6,R&B and Soul Vibes
+93,This One’s For The Children - New Kids on the Block,2,R&B and Soul Vibes
+94,She Ain’t Worth It - Glenn Medeiros and Bobby Brown,1,Dance and Electronic Hits
+95,Girls Nite Out - Tyler Collins,6,R&B and Soul Vibes
+96,C’mon And Get My Love - D Mob featuring Cathy Dennis,8,Dance and Electronic Hits
+97,(CAN’T Live Without Your) Love And Affection - Nelson,7,Emotional and Heartfelt Songs
+98,I’ll Be Your Everything - Tommy Page,6,Emotional and Heartfelt Songs
+99,I’ll Be Your Shelter - Taylor Dayne,6,Emotional and Heartfelt Songs
+100,Romantic - Karyn White,1,R&B and Soul Vibes
+101,Baby Baby - Amy Grant,1,Pop and Rock Classics
+102,Losing My Religion - R.E.M.,3,Alternative and Indie Playlist
+103,The First Time - Surface,4,R&B and Soul Vibes
+104,Joyride - Roxette,3,Pop and Rock Classics
+105,Rush Rush - Paula Abdul,1,Pop and Rock Classics
+106,Wicked Game - Chris Isaak,8,Emotional and Heartfelt Songs
+107,Crazy - Seal,2,Emotional and Heartfelt Songs
+108,Wind Of Change - Scorpions,2,Alternative and Indie Playlist
+109,Enter Sandman - Metallica,8,Emotional and Heartfelt Songs
+110,It Ain’t Over ‘TIL It’s Over - Lenny Kravitz,0,Pop and Rock Classics
+111,More Than Words - Extreme,3,Soft Rock and Ballads
+112,Power Of Love/Love Power - Luther Vandross,7,R&B and Soul Vibes
+113,Summertime - DJ Jazzy Jeff & The Fresh Prince,8,Hip-Hop and Rap Anthems
+114,Play That Funky Music - Vanilla Ice,8,Hip-Hop and Rap Anthems
+115,Someday - Mariah Carey,5,R&B and Soul Vibes
+116,Disappear - INXS,3,Alternative and Indie Playlist
+117,Good Vibrations - Marky Mark and the Funky Bunch featuring Loleatta Holloway,8,Dance and Electronic Hits
+118,Shiny Happy People - R.E.M.,2,Pop and Rock Classics
+119,High Enough - Damn Yankees,4,Soft Rock and Ballads
+120,Gonna Make You Sweat (EVERYBODY Dance Now) - C+C Music Factory,8,Dance and Electronic Hits
+121,Something To Talk About - Bonnie Raitt,1,Pop and Rock Classics
+122,Round And Round - Tevin Campbell,4,R&B and Soul Vibes
+123,Cream - Prince and The New Power Generation,3,R&B and Soul Vibes
+124,Emotions - Mariah Carey,5,R&B and Soul Vibes
+125,Piece Of My Heart - Tara Kemp,1,Pop and Rock Classics
+126,Temptation - Corina,8,Dance and Electronic Hits
+127,Freedom 90 - George Michael,7,Nostalgic 90s Tunes
+128,Show Me The Way - Styx,2,Soft Rock and Ballads
+129,O.P.P. - Naughty by Nature,2,Hip-Hop and Rap Anthems
+130,Unbelievable - EMF,2,Alternative and Indie Playlist
+131,(EVERYTHING I Do) I Do It For You - Bryan Adams,6,Emotional and Heartfelt Songs
+132,I Saw Red - Warrant,3,Pop and Rock Classics
+133,Signs - Tesla,3,Pop and Rock Classics
+134,I Touch Myself - Divinyls,6,Nostalgic 90s Tunes
+135,I’ll Be There - The Escape Club,6,Emotional and Heartfelt Songs
+136,Get Here - Oleta Adams,6,Emotional and Heartfelt Songs
+137,Now That We Found Love - Heavy D & the Boyz,2,Hip-Hop and Rap Anthems
+138,All This Time - Sting,6,Emotional and Heartfelt Songs
+139,I Wanna Sex You Up - Color Me Badd,9,R&B and Soul Vibes
+140,Love Of A Lifetime - FireHouse,7,Power Ballads
+141,Motownphilly - Boyz II Men,8,R&B and Soul Vibes
+142,Sadeness (PART I) - Enigma,7,Dance and Electronic Hits
+143,The One And Only - Chesney Hawkes,1,Nostalgic 90s Tunes
+144,This House - Tracie Spencer,4,R&B and Soul Vibes
+145,Silent Lucidity - Queensrÿche,1,Soft Rock and Ballads
+146,Impulsive - Wilson Phillips,2,Pop and Rock Classics
+147,One More Try - Timmy T,4,Emotional and Heartfelt Songs
+148,The Way You Do The Things You Do - UB40,3,R&B and Soul Vibes
+149,Where Does My Heart Beat Now - Celine Dion,5,Emotional and Heartfelt Songs
+150,Don’t Cry - Guns N’ Roses,6,Pop and Rock Classics
+151,Here I Am (COME And Take Me) - UB40,2,R&B and Soul Vibes
+152,Love Takes Time - Mariah Carey,5,Emotional and Heartfelt Songs
+153,Miles Away - Winger,4,Soft Rock and Ballads
+154,P.A.S.S.I.O.N. - Rythm Syndicate,3,Dance and Electronic Hits
+155,"Right Here, Right Now - Jesus Jones",6,Alternative and Indie Playlist
+156,Coming Out Of The Dark - Gloria Estefan,5,Emotional and Heartfelt Songs
+157,Do Anything - Natural Selection,3,Dance and Electronic Hits
+158,Strike It Up - Black Box,4,Dance and Electronic Hits
+159,Tom’s Diner - DNA featuring Suzanne Vega,1,Alternative and Indie Playlist
+160,All The Man That I Need - Whitney Houston,5,Emotional and Heartfelt Songs
+161,I Don’t Wanna Cry - Mariah Carey,5,Emotional and Heartfelt Songs
+162,I’m Your Baby Tonight - Whitney Houston,5,R&B and Soul Vibes
+163,Around The Way Girl - LL Cool J,9,Hip-Hop and Rap Anthems
+164,From A Distance - Bette Midler,4,Emotional and Heartfelt Songs
+165,Something To Believe In - Poison,3,Pop and Rock Classics
+166,Hold You Tight - Tara Kemp,1,Dance and Electronic Hits
+167,Hole Hearted - Extreme,3,Pop and Rock Classics
+168,Sensitivity - Ralph Tresvant,3,R&B and Soul Vibes
+169,I Like The Way (THE Kissing Game) - Hi-Five,9,R&B and Soul Vibes
+170,Just Another Dream - Cathy Dennis,1,Dance and Electronic Hits
+171,After The Rain - Nelson,7,Soft Rock and Ballads
+172,Place In This World - Michael W. Smith,7,Emotional and Heartfelt Songs
+173,Real Real Real - Jesus Jones,6,Alternative and Indie Playlist
+174,Everybody Plays The Fool - Aaron Neville,7,Emotional and Heartfelt Songs
+175,Fading Like A Flower (EVERY Time You Leave) - Roxette,1,Dance and Electronic Hits
+176,Love Will Never Do (WITHOUT You) - Janet Jackson,5,R&B and Soul Vibes
+177,Rhythm Of My Heart - Rod Stewart,7,Soft Rock and Ballads
+178,The Motown Song - Rod Stewart,7,Nostalgic 90s Tunes
+179,Justify My Love - Madonna,5,R&B and Soul Vibes
+180,Things That Make You Go Hmmm… - C+C Music Factory,3,Dance and Electronic Hits
+181,Can’t Stop This Thing We Started - Bryan Adams,6,Pop and Rock Classics
+182,I’ve Been Thinking About You - Londonbeat,6,Dance and Electronic Hits
+183,I Adore Mi Amor - Color Me Badd,9,R&B and Soul Vibes
+184,Love Is A Wonderful Thing - Michael Bolton,7,Soft Rock and Ballads
+185,Too Many Walls - Cathy Dennis,1,Dance and Electronic Hits
+186,"Time, Love And Tenderness - Michael Bolton",7,Soft Rock and Ballads
+187,Touch Me (ALL Night Long) - Cathy Dennis,1,Dance and Electronic Hits
+188,Every Heartbeat - Amy Grant,5,Pop and Rock Classics
+189,Here We Go (LET’S Rock N’ Roll) - C+C Music Factory featuring Freedom Williams & Zelma Davis,8,Dance and Electronic Hits
+190,I’m Not In Love - Will to Power,4,Soft Rock and Ballads
+191,Iesha - Another Bad Creation,3,R&B and Soul Vibes
+192,The Promise Of A New Day - Paula Abdul,1,Dance and Electronic Hits
+193,Rico Suave - Gerardo,9,Hip-Hop and Rap Anthems
+194,Cry For Help - Rick Astley,6,Pop and Rock Classics
+195,Because I Love You (THE Postman Song) - Stevie B,7,Emotional and Heartfelt Songs
+196,3 A.M. Eternal - The KLF,2,Dance and Electronic Hits
+197,I’ll Give All My Love To You - Keith Sweat,6,R&B and Soul Vibes
+198,You’re In Love - Wilson Phillips,6,Pop and Rock Classics
+199,I Can’t Wait Another Minute - Hi-Five,4,R&B and Soul Vibes
+200,The One - Elton John,7,Emotional and Heartfelt Songs
+201,One - U2,2,Pop and Rock Classics
+202,Stay - Shakespears Sister,1,Pop and Rock Classics
+203,Under The Bridge - Red Hot Chili Peppers,8,Alternative and Indie Playlist
+204,Tennessee - Arrested Development,8,Hip-Hop and Rap Anthems
+205,November Rain - Guns N’ Roses,7,Soft Rock and Ballads
+206,Real Love - Mary J. Blige,5,R&B and Soul Vibes
+207,Smells Like Teen Spirit - Nirvana,8,Alternative and Indie Playlist
+208,Everything About You - Ugly Kid Joe,9,Alternative and Indie Playlist
+209,Jump - Kris Kross,9,Hip-Hop and Rap Anthems
+210,Jump Around - House of Pain,4,Hip-Hop and Rap Anthems
+211,Please Don’t Go - KWS,3,Dance and Electronic Hits
+212,I Wanna Love You - Jade,5,R&B and Soul Vibes
+213,Life Is A Highway - Tom Cochrane,7,Emotional and Heartfelt Songs
+214,Remember The Time - Michael Jackson,7,Pop and Rock Classics
+215,All I Want - Toad the Wet Sprocket,8,Alternative and Indie Playlist
+216,Bohemian Rhapsody - Queen,5,Pop and Rock Classics
+217,Erotica - Madonna,5,Dance and Electronic Hits
+218,Masterpiece - Atlantic Starr,7,Emotional and Heartfelt Songs
+219,Rhythm Is A Dancer - Snap!,0,Dance and Electronic Hits
+220,Baby Got Back - Sir Mix-a-Lot,8,Hip-Hop and Rap Anthems
+221,Forever Love - Color Me Badd,7,R&B and Soul Vibes
+222,Achy Breaky Heart - Billy Ray Cyrus,8,Country Melodies
+223,Black Or White - Michael Jackson,5,Pop and Rock Classics
+224,Tears In Heaven - Eric Clapton,7,Emotional and Heartfelt Songs
+225,To Be With You - Mr. Big,6,Soft Rock and Ballads
+226,Slow Motion - Color Me Badd,2,R&B and Soul Vibes
+227,When A Man Loves A Woman - Michael Bolton,7,Emotional and Heartfelt Songs
+228,End Of The Road - Boyz II Men,2,R&B and Soul Vibes
+229,Save The Best For Last - Vanessa Williams,5,Pop and Rock Classics
+230,Would I Lie To You? - Charles & Eddie,0,R&B and Soul Vibes
+231,All 4 Love - Color Me Badd,9,Nostalgic 90s Tunes
+232,I Can’t Dance - Genesis,8,Pop and Rock Classics
+233,People Everyday - Arrested Development,3,Alternative and Indie Playlist
+234,I’ll Be There - Mariah Carey featuring Trey Lorenz,5,Pop and Rock Classics
+235,When I Look Into Your Eyes - FireHouse,7,Emotional and Heartfelt Songs
+236,Beauty And The Beast - Celine Dion and Peabo Bryson,5,Pop and Rock Classics
+237,Breakin’ My Heart (PRETTY Brown Eyes) - Mint Condition,8,R&B and Soul Vibes
+238,Don’t Let The Sun Go Down On Me - George Michael and Elton John,7,Emotional and Heartfelt Songs
+239,I Love Your Smile - Shanice,1,R&B and Soul Vibes
+240,In The Closet - Michael Jackson,7,Pop and Rock Classics
+241,Make It Happen - Mariah Carey,5,R&B and Soul Vibes
+242,Hazard - Richard Marx,7,Soft Rock and Ballads
+243,Hold On My Heart - Genesis,7,Soft Rock and Ballads
+244,Rump Shaker - Wreckx-N-Effect,3,Hip-Hop and Rap Anthems
+245,Wildside - Marky Mark and the Funky Bunch,0,Hip-Hop and Rap Anthems
+246,Wishing On A Star - The Cover Girls,1,Dance and Electronic Hits
+247,Finally - CeCe Peniston,4,Dance and Electronic Hits
+248,Free Your Mind - En Vogue,9,R&B and Soul Vibes
+249,Friday I’m In Love - The Cure,7,Alternative and Indie Playlist
+250,If You Asked Me To - Celine Dion,5,Emotional and Heartfelt Songs
+251,Just Another Day - Jon Secada,7,Emotional and Heartfelt Songs
+252,No Son Of Mine - Genesis,8,Soft Rock and Ballads
+253,The Best Things In Life Are Free - Luther Vandross and Janet Jackson featuring Bell Biv Devoe and Ralph Tresvant,5,R&B and Soul Vibes
+254,Back To The Hotel - N2Deep,8,Hip-Hop and Rap Anthems
+255,Come And Talk To Me - Jodeci,9,R&B and Soul Vibes
+256,Damn I Wish I Was Your Lover - Sophie B. Hawkins,1,Pop and Rock Classics
+257,Good For Me - Amy Grant,1,Pop and Rock Classics
+258,Move This - Technotronic featuring Ya Kid K,2,Dance and Electronic Hits
+259,Have You Ever Needed Someone So Bad - Def Leppard,3,Soft Rock and Ballads
+260,Missing You Now - Michael Bolton featuring Kenny G,7,Soft Rock and Ballads
+261,Set Adrift On Memory Bliss - P.M. Dawn,1,Nostalgic 90s Tunes
+262,Too Funky - George Michael,8,Pop and Rock Classics
+263,Baby-Baby-Baby - TLC,2,R&B and Soul Vibes
+264,Mysterious Ways - U2,3,Alternative and Indie Playlist
+265,This Used To Be My Playground - Madonna,5,Pop and Rock Classics
+266,2 Legit 2 Quit - Hammer,3,Hip-Hop and Rap Anthems
+267,Thinkin’ Back - Color Me Badd,4,R&B and Soul Vibes
+268,Can’t Let Go - Mariah Carey,5,Soft Rock and Ballads
+269,Giving Him Something He Can Feel - En Vogue,0,R&B and Soul Vibes
+270,It’s So Hard To Say Goodbye To Yesterday - Boyz II Men,2,R&B and Soul Vibes
+271,Take This Heart - Richard Marx,7,Pop and Rock Classics
+272,Diamonds And Pearls - Prince and The New Power Generation,3,Pop and Rock Classics
+273,Tell Me What You Want Me To Do - Tevin Campbell,6,R&B and Soul Vibes
+274,Everything Changes - Kathy Troccoli,1,Emotional and Heartfelt Songs
+275,Live And Learn - Joe Public,0,R&B and Soul Vibes
+276,Warm It Up - Kris Kross,9,Hip-Hop and Rap Anthems
+277,Humpin’ Around - Bobby Brown,6,R&B and Soul Vibes
+278,Keep Coming Back - Richard Marx,7,Pop and Rock Classics
+279,She’s Playing Hard To Get - Hi-Five,4,R&B and Soul Vibes
+280,Do I Have To Say The Words? - Bryan Adams,6,Soft Rock and Ballads
+281,We Got A Love Thang - CeCe Peniston,4,Dance and Electronic Hits
+282,Keep On Walkin’ - CeCe Peniston,4,Dance and Electronic Hits
+283,Uhh Ahh - Boyz II Men,2,R&B and Soul Vibes
+284,Thought I’d Died And Gone To Heaven - Bryan Adams,6,Soft Rock and Ballads
+285,Blowing Kisses In The Wind - Paula Abdul,1,Nostalgic 90s Tunes
+286,Addams Groove - Hammer,2,Hip-Hop and Rap Anthems
+287,Ain’t 2 Proud 2 Beg - TLC,4,R&B and Soul Vibes
+288,I’m Too Sexy - Right Said Fred,2,Dance and Electronic Hits
+289,Justified And Ancient - The KLF featuring Tammy Wynette,1,Dance and Electronic Hits
+290,Sometimes Love Just Ain’t Enough - Patty Smyth and Don Henley,7,Soft Rock and Ballads
+291,The Way I Feel About You - Karyn White,6,R&B and Soul Vibes
+292,My Lovin’ (YOU’RE Never Gonna Get It) - En Vogue,9,R&B and Soul Vibes
+293,Let’s Get Rocked - Def Leppard,8,Pop and Rock Classics
+294,That’s What Love Is For - Amy Grant,1,Soft Rock and Ballads
+295,If - Janet Jackson,5,R&B and Soul Vibes
+296,Rain - Madonna,5,R&B and Soul Vibes
+297,Alright - Kris Kross,9,Hip-Hop and Rap Anthems
+298,It Was A Good Day - Ice Cube,2,Hip-Hop and Rap Anthems
+299,Love Is - Vanessa Williams and Brian McKnight,5,R&B and Soul Vibes
+300,7 - Prince and The New Power Generation,3,Nostalgic 90s Tunes
+301,Again - Janet Jackson,5,R&B and Soul Vibes
+302,I Will Always Love You - Whitney Houston,5,Emotional and Heartfelt Songs
+303,Nuthin’ But A ‘G’ Thang - Dr. Dre,3,Hip-Hop and Rap Anthems
+304,Angel - Jon Secada,9,Emotional and Heartfelt Songs
+305,Freak Me - Silk,2,R&B and Soul Vibes
+306,I’m Gonna Be (500 Miles) - The Proclaimers,6,Pop and Rock Classics
+307,I Have Nothing - Whitney Houston,5,Emotional and Heartfelt Songs
+308,Sweat (A La La La La Long) - Inner Circle,3,Hip-Hop and Rap Anthems
+309,Ordinary World - Duran Duran,9,Emotional and Heartfelt Songs
+310,Two Princes - Spin Doctors,3,Alternative and Indie Playlist
+311,Bed Of Roses - Bon Jovi,7,Soft Rock and Ballads
+312,Insane In The Brain - Cypress Hill,8,Hip-Hop and Rap Anthems
+313,Layla - Eric Clapton,7,Soft Rock and Ballads
+314,Show Me Love - Robin S.,7,Dance and Electronic Hits
+315,Baby I’m Yours - Shai,9,R&B and Soul Vibes
+316,Rhythm Is A Dancer - Snap!,0,Dance and Electronic Hits
+317,Come Undone - Duran Duran,8,Nostalgic 90s Tunes
+318,Runaway Train - Soul Asylum,8,Alternative and Indie Playlist
+319,Bad Boys - Inner Circle,8,Nostalgic 90s Tunes
+320,Faithful - Go West,6,Pop and Rock Classics
+321,Hip Hop Hooray - Naughty by Nature,8,Hip-Hop and Rap Anthems
+322,To Love Somebody - Michael Bolton,7,Pop and Rock Classics
+323,I Get Around - 2Pac,3,Hip-Hop and Rap Anthems
+324,Connected - Stereo MC’s,4,Dance and Electronic Hits
+325,A Whole New World - Peabo Bryson and Regina Belle,1,Emotional and Heartfelt Songs
+326,Cryin’ - Aerosmith,6,Pop and Rock Classics
+327,More And More - Captain Hollywood Project,3,Dance and Electronic Hits
+328,The River Of Dreams - Billy Joel,7,Emotional and Heartfelt Songs
+329,Walking On Broken Glass - Annie Lennox,1,Pop and Rock Classics
+330,Hey Mr. D.J. - Zhané,3,R&B and Soul Vibes
+331,Informer - Snow,2,Hip-Hop and Rap Anthems
+332,Knockin’ Da Boots - H-Town,2,R&B and Soul Vibes
+333,Weak - SWV,3,R&B and Soul Vibes
+334,When She Cries - Restless Heart,1,Country Melodies
+335,Get Away - Bobby Brown,6,Hip-Hop and Rap Anthems
+336,I Got A Man - Positive K,3,Hip-Hop and Rap Anthems
+337,Dre Day - Dr. Dre featuring Snoop Doggy Dogg,8,Hip-Hop and Rap Anthems
+338,Have I Told You Lately - Rod Stewart,6,Soft Rock and Ballads
+339,If I Ever Fall In Love - Shai,9,R&B and Soul Vibes
+340,Good Enough - Bobby Brown,6,R&B and Soul Vibes
+341,One Last Cry - Brian McKnight,7,Emotional and Heartfelt Songs
+342,Rebirth Of Slick (COOL Like Dat) - Digable Planets,8,Hip-Hop and Rap Anthems
+343,Who Is It - Michael Jackson,7,Pop and Rock Classics
+344,Whoomp! (THERE It Is) - Tag Team,3,Hip-Hop and Rap Anthems
+345,Anniversary - Tony! Toni! Toné!,0,R&B and Soul Vibes
+346,Another Sad Love Song - Toni Braxton,5,R&B and Soul Vibes
+347,Love Is On The Way - Saigon Kick,7,Emotional and Heartfelt Songs
+348,Slam - Onyx,4,Hip-Hop and Rap Anthems
+349,Dreamlover - Mariah Carey,5,R&B and Soul Vibes
+350,Livin’ On The Edge - Aerosmith,6,Pop and Rock Classics
+351,Forever In Love - Kenny G,7,Emotional and Heartfelt Songs
+352,Ditty - Paperboy,2,Hip-Hop and Rap Anthems
+353,Here We Go Again! - Portrait,4,Hip-Hop and Rap Anthems
+354,Three Little Pigs - Green Jellÿ,2,Alternative and Indie Playlist
+355,Two Steps Behind - Def Leppard,3,Soft Rock and Ballads
+356,Lately - Jodeci,9,R&B and Soul Vibes
+357,Mr. Wendal - Arrested Development,3,Hip-Hop and Rap Anthems
+358,Boom! Shake The Room - DJ Jazzy Jeff & The Fresh Prince,8,Hip-Hop and Rap Anthems
+359,What About Your Friends - TLC,3,R&B and Soul Vibes
+360,Deeper And Deeper - Madonna,5,Dance and Electronic Hits
+361,Will You Be There - Michael Jackson,6,Emotional and Heartfelt Songs
+362,Don’t Walk Away - Jade,6,R&B and Soul Vibes
+363,I’d Die Without You - P.M. Dawn,2,Emotional and Heartfelt Songs
+364,I’m So Into You - SWV,2,R&B and Soul Vibes
+365,Comforter - Shai,1,R&B and Soul Vibes
+366,How Do You Talk To An Angel - The Heights,4,Soft Rock and Ballads
+367,I Don’t Wanna Fight - Tina Turner,6,Emotional and Heartfelt Songs
+368,What’s Up? - 4 Non Blondes,3,Alternative and Indie Playlist
+369,If I Had No Loot - Tony! Toni! Toné!,0,R&B and Soul Vibes
+370,Can’t Help Falling In Love - UB40,7,Nostalgic 90s Tunes
+371,Reason To Believe - Rod Stewart,7,Nostalgic 90s Tunes
+372,Do You Believe In Us - Jon Secada,3,Alternative and Indie Playlist
+373,In The Still Of The Nite - Boyz II Men,4,R&B and Soul Vibes
+374,"Give It Up, Turn It Loose - En Vogue",4,R&B and Soul Vibes
+375,Saving Forever For You - Shanice,1,Emotional and Heartfelt Songs
+376,Looking Through Patient Eyes - P.M. Dawn,1,R&B and Soul Vibes
+377,Dazzey Duks - Duice,2,Hip-Hop and Rap Anthems
+378,The Right Kind Of Love - Jeremy Jordan,7,Nostalgic 90s Tunes
+379,Right Here (HUMAN Nature Remix) - SWV,2,R&B and Soul Vibes
+380,"Whoot, There It Is - 95 South",4,Hip-Hop and Rap Anthems
+381,I’m Every Woman - Whitney Houston,5,R&B and Soul Vibes
+382,Little Miss Can’t Be Wrong - Spin Doctors,4,Nostalgic 90s Tunes
+383,Nothin’ My Love Can’t Fix - Joey Lawrence,6,Nostalgic 90s Tunes
+384,Shoop (#5*) - Salt N’ Pepa,9,Hip-Hop and Rap Anthems
+385,Cat’s In The Cradle - Ugly Kid Joe,7,Alternative and Indie Playlist
+386,That’s What Love Can Do - Boy Krazy,2,Dance and Electronic Hits
+387,I’ll Never Get Over You (GETTING Over Me) - Exposé,6,Nostalgic 90s Tunes
+388,That’s The Way Love Goes - Janet Jackson,5,R&B and Soul Vibes
+389,Stay - Eternal,4,R&B and Soul Vibes
+390,Linger - The Cranberries,1,Alternative and Indie Playlist
+391,If You Go - Jon Secada,6,Nostalgic 90s Tunes
+392,The Sign - Ace of Base,3,Dance and Electronic Hits
+393,I Miss You - Aaron Hall,6,R&B and Soul Vibes
+394,What Is Love - Haddaway,3,Dance and Electronic Hits
+395,Always - Bon Jovi,9,Pop and Rock Classics
+396,Always - Erasure,3,Dance and Electronic Hits
+397,Crazy - Aerosmith,6,Nostalgic 90s Tunes
+398,Again - Janet Jackson,5,R&B and Soul Vibes
+399,All That She Wants - Ace of Base,1,Dance and Electronic Hits
+400,Anything - SWV,3,R&B and Soul Vibes
+401,Streets Of Philadelphia - Bruce Springsteen,7,Emotional and Heartfelt Songs
+402,The Power Of Love - Céline Dion,5,Emotional and Heartfelt Songs
+403,I Can See Clearly Now - Jimmy Cliff,6,Emotional and Heartfelt Songs
+404,Gin And Juice - Snoop Doggy Dogg,8,Hip-Hop and Rap Anthems
+405,Regulate - Warren G featuring Nate Dogg,8,Hip-Hop and Rap Anthems
+406,Hero - Mariah Carey,5,Emotional and Heartfelt Songs
+407,Mr. Vain - Culture Beat,2,Dance and Electronic Hits
+408,Loser - Beck,9,Alternative and Indie Playlist
+409,Shoop - Salt-n-Pepa,3,Hip-Hop and Rap Anthems
+410,"Baby, I Love Your Way - Big Mountain",6,Emotional and Heartfelt Songs
+411,Shine - Collective Soul,8,Alternative and Indie Playlist
+412,So Much In Love - All-4-One,9,R&B and Soul Vibes
+413,Keep Ya Head Up - 2Pac,2,Hip-Hop and Rap Anthems
+414,Now And Forever - Richard Marx,7,Soft Rock and Ballads
+415,Far Behind - Candlebox,4,Alternative and Indie Playlist
+416,Never Lie - Immature,3,R&B and Soul Vibes
+417,Return To Innocence - Enigma,7,Dance and Electronic Hits
+418,"Because The Night - 10,000 Maniacs",3,Alternative and Indie Playlist
+419,This D.J. - Warren G,3,Hip-Hop and Rap Anthems
+420,When Can I See You - Babyface,9,R&B and Soul Vibes
+421,Can We Talk - Tevin Campbell,4,R&B and Soul Vibes
+422,Indian Outlaw - Tim McGraw,8,Country Melodies
+423,Mmm Mmm Mmm Mmm - Crash Test Dummies,3,Nostalgic 90s Tunes
+424,Said I Loved You…But I Lied - Michael Bolton,7,Emotional and Heartfelt Songs
+425,Whatta Man - Salt-n-Pepa and En Vogue,3,R&B and Soul Vibes
+426,Circle Of Life - Elton John,7,Soft Rock and Ballads
+427,Lucky One - Amy Grant,1,Pop and Rock Classics
+428,(AT Your Best) You Are Love - Aaliyah,5,R&B and Soul Vibes
+429,Amazing - Aerosmith,6,Pop and Rock Classics
+430,Secret - Madonna,5,R&B and Soul Vibes
+431,Wild Night - John Mellencamp featuring Me’shell Ndegeocello,7,Soft Rock and Ballads
+432,Don’t Take The Girl - Tim McGraw,6,Country Melodies
+433,Stay (I Missed You) - Lisa Loeb and Nine Stories,1,Alternative and Indie Playlist
+434,Breathe Again - Toni Braxton,6,R&B and Soul Vibes
+435,Fantastic Voyage - Coolio,9,Hip-Hop and Rap Anthems
+436,I Swear - All-4-One,3,Emotional and Heartfelt Songs
+437,"All For Love - Bryan Adams, Rod Stewart and Sting",6,Pop and Rock Classics
+438,"Any Time, Any Place - Janet Jackson",5,R&B and Soul Vibes
+439,Back & Forth - Aaliyah,1,R&B and Soul Vibes
+440,Can You Feel The Love Tonight - Elton John,7,Soft Rock and Ballads
+441,I’d Do Anything For Love (BUT I Wont Do That) - Meat Loaf,7,Pop and Rock Classics
+442,Don’t Turn Around - Ace of Base,4,Nostalgic 90s Tunes
+443,I’m Ready - Tevin Campbell,6,R&B and Soul Vibes
+444,Beautiful In My Eyes - Joshua Kadison,7,Emotional and Heartfelt Songs
+445,Cry For You - Jodeci,9,R&B and Soul Vibes
+446,The Most Beautiful Girl In The World - Prince,1,Pop and Rock Classics
+447,"What’s The Frequency, Kenneth? - R.E.M.",3,Alternative and Indie Playlist
+448,Bump N’ Grind - R. Kelly,8,R&B and Soul Vibes
+449,Endless Love - Luther Vandross and Mariah Carey,5,Soft Rock and Ballads
+450,Flava In Ya Ear - Craig Mack,8,Hip-Hop and Rap Anthems
+451,Just Kickin’ It - Xscape,4,Nostalgic 90s Tunes
+452,Please Forgive Me - Bryan Adams,6,Soft Rock and Ballads
+453,What’s My Name? - Snoop Doggy Dogg,2,Hip-Hop and Rap Anthems
+454,Come To My Window - Melissa Etheridge,1,Pop and Rock Classics
+455,Tootsee Roll - 69 Boyz,2,Hip-Hop and Rap Anthems
+456,Always In My Heart - Tevin Campbell,7,Emotional and Heartfelt Songs
+457,Funkdafied - Da Brat,8,Hip-Hop and Rap Anthems
+458,Groove Thang - Zhané,3,R&B and Soul Vibes
+459,The Way She Loves Me - Richard Marx,5,Soft Rock and Ballads
+460,Anytime You Need A Friend - Mariah Carey,5,Emotional and Heartfelt Songs
+461,You Mean The World To Me - Toni Braxton,5,R&B and Soul Vibes
+462,Cantaloop (FLIP Fantasia) - Us3,8,Hip-Hop and Rap Anthems
+463,Understanding - Xscape,3,R&B and Soul Vibes
+464,I’m The Only One - Melissa Etheridge,1,Pop and Rock Classics
+465,Stroke You Up - Changing Faces,3,R&B and Soul Vibes
+466,Mary Jane’s Last Dance - Tom Petty and the Heartbreakers,5,Soft Rock and Ballads
+467,Getto Jam - Domino,9,Hip-Hop and Rap Anthems
+468,Never Keeping Secrets - Babyface,9,R&B and Soul Vibes
+469,Got Me Waiting - Heavy D & the Boyz,2,R&B and Soul Vibes
+470,Turn The Beat Around - Gloria Estefan,5,Dance and Electronic Hits
+471,Gangsta Lean - DRS,8,Hip-Hop and Rap Anthems
+472,I’ll Stand By You - Pretenders,9,Emotional and Heartfelt Songs
+473,Prayer For The Dying - Seal,3,R&B and Soul Vibes
+474,Because Of Love - Janet Jackson,5,Pop and Rock Classics
+475,Rock And Roll Dreams Come Through - Meat Loaf,7,Pop and Rock Classics
+476,Your Body’s Callin’ - R. Kelly,6,R&B and Soul Vibes
+477,Without You / Never Forget You - Mariah Carey,5,Pop and Rock Classics
+478,I’ll Remember - Madonna,5,Emotional and Heartfelt Songs
+479,I’ll Take You There - General Public,3,Alternative and Indie Playlist
+480,Someone To Love - Jon B. featuring Babyface,7,Emotional and Heartfelt Songs
+481,Believe - Elton John,7,Emotional and Heartfelt Songs
+482,Creep - TLC,3,R&B and Soul Vibes
+483,Baby - Brandy,8,R&B and Soul Vibes
+484,I Know - Dionne Farris,1,Alternative and Indie Playlist
+485,Come And Get Your Love - Real McCoy,6,Dance and Electronic Hits
+486,Runaway - Janet Jackson,5,Pop and Rock Classics
+487,Total Eclipse Of The Heart - Nicki French,7,Pop and Rock Classics
+488,Scream - Michael Jackson and Janet Jackson,5,Pop and Rock Classics
+489,Carnival - Natalie Merchant,1,Alternative and Indie Playlist
+490,Thank You - Boyz II Men,2,R&B and Soul Vibes
+491,Fantasy - Mariah Carey,5,Pop and Rock Classics
+492,December - Collective Soul,8,Alternative and Indie Playlist
+493,"December, 1963 (OH, What A Night) - The Four Seasons",7,Pop and Rock Classics
+494,Every Little Thing I Do - Soul for Real,6,R&B and Soul Vibes
+495,I Believe - Blessid Union of Souls,8,Emotional and Heartfelt Songs
+496,I Got 5 On It - Luniz,2,Hip-Hop and Rap Anthems
+497,If You Love Me - Brownstone,6,R&B and Soul Vibes
+498,Misery - Soul Asylum,8,Alternative and Indie Playlist
+499,Take A Bow - Madonna,5,Emotional and Heartfelt Songs
+500,Waterfalls - TLC,8,R&B and Soul Vibes
+501,All I Wanna Do - Sheryl Crow,6,Pop and Rock Classics
+502,Boombastic - Shaggy,2,Nostalgic 90s Tunes
+503,Hold On - Jamie Walters,4,Emotional and Heartfelt Songs
+504,Back For Good - Take That,4,Emotional and Heartfelt Songs
+505,Dear Mama - 2Pac,2,Hip-Hop and Rap Anthems
+506,You Gotta Be - Des’ree,4,Emotional and Heartfelt Songs
+507,Have You Ever Really Loved A Woman? - Bryan Adams,1,Soft Rock and Ballads
+508,Here Comes The Hotstepper - Ini Kamoze,4,Nostalgic 90s Tunes
+509,I Wish - Skee-Lo,4,Nostalgic 90s Tunes
+510,Candy Rain - Soul for Real,8,R&B and Soul Vibes
+511,Do You Sleep? - Lisa Loeb & Nine Stories,1,Alternative and Indie Playlist
+512,You Are Not Alone - Michael Jackson,5,Emotional and Heartfelt Songs
+513,Feel Me Flow - Naughty by Nature,8,Hip-Hop and Rap Anthems
+514,Name - Goo Goo Dolls,2,Alternative and Indie Playlist
+515,This Is How We Do It - Montell Jordan,4,R&B and Soul Vibes
+516,1st Of Tha Month - Bone Thugs-n-Harmony,8,Hip-Hop and Rap Anthems
+517,Let Her Cry - Hootie & the Blowfish,1,Soft Rock and Ballads
+518,Run-Around - Blues Traveler,0,Pop and Rock Classics
+519,Another Night - Real McCoy,6,Dance and Electronic Hits
+520,I Wanna Be Down - Brandy,8,R&B and Soul Vibes
+521,Run Away - Real McCoy,6,Dance and Electronic Hits
+522,Keep Their Heads Ringin’ - Dr. Dre,4,Hip-Hop and Rap Anthems
+523,Roll To Me - Del Amitri,9,Pop and Rock Classics
+524,You Don’t Know How It Feels - Tom Petty,6,Pop and Rock Classics
+525,Colors Of The Wind - Vanessa Williams,1,Emotional and Heartfelt Songs
+526,Hold My Hand - Hootie & the Blowfish,2,Soft Rock and Ballads
+527,Strong Enough - Sheryl Crow,1,Emotional and Heartfelt Songs
+528,One More Chance - The Notorious B.I.G.,3,Hip-Hop and Rap Anthems
+529,Cotton Eye Joe - Rednex,0,Dance and Electronic Hits
+530,This Ain’t A Love Song - Bon Jovi,9,Soft Rock and Ballads
+531,Brokenhearted - Brandy featuring Wanya Morris,8,R&B and Soul Vibes
+532,Shy Guy - Diana King,1,R&B and Soul Vibes
+533,Freak Like Me - Adina Howard,1,R&B and Soul Vibes
+534,The Rhythm Of The Night - Corona,7,Dance and Electronic Hits
+535,Before I Let You Go - Blackstreet,6,R&B and Soul Vibes
+536,I Can Love You Like That - All-4-One,9,Soft Rock and Ballads
+537,Who Can I Run To - Xscape,3,R&B and Soul Vibes
+538,100% Pure Love - Crystal Waters,1,Dance and Electronic Hits
+539,Don’t Take It Personal (JUST One Of Dem Days) - Monica,1,R&B and Soul Vibes
+540,On Bended Knee - Boyz II Men,4,R&B and Soul Vibes
+541,Red Light Special - TLC,3,R&B and Soul Vibes
+542,As I Lay Me Down - Sophie B. Hawkins,1,Emotional and Heartfelt Songs
+543,How High - Redman/Method Man,3,Hip-Hop and Rap Anthems
+544,I’ll Make Love To You - Boyz II Men,2,R&B and Soul Vibes
+545,Ask Of You - Raphael Saadiq,3,R&B and Soul Vibes
+546,"Hold Me, Thrill Me, Kiss Me, Kill Me - U2",8,Pop and Rock Classics
+547,Water Runs Dry - Boyz II Men,2,R&B and Soul Vibes
+548,He’s Mine - Mokenstef,9,R&B and Soul Vibes
+549,I’m The Only One - Melissa Etheridge,1,Pop and Rock Classics
+550,Short Dick Man - 20 Fingers featuring Gillette,2,Dance and Electronic Hits
+551,Bang And Blame - R.E.M.,8,Alternative and Indie Playlist
+552,Practice (WHAT You Preach) - Barry White,6,R&B and Soul Vibes
+553,Sugar Hill - AZ,8,Hip-Hop and Rap Anthems
+554,The Sweetest Days - Vanessa Williams,5,Soft Rock and Ballads
+555,Sukiyaki - 4 P.M.,3,R&B and Soul Vibes
+556,Can’t You See - Total featuring The Notorious B.I.G.,8,Hip-Hop and Rap Anthems
+557,Constantly - Immature,3,R&B and Soul Vibes
+558,No More I Love You’s - Annie Lennox,5,Soft Rock and Ballads
+559,This Lil’ Game We Play - Subway featuring 702,4,R&B and Soul Vibes
+560,Every Day Of The Week - Jade,1,Emotional and Heartfelt Songs
+561,In The House Of Stone And Light - Martin Page,7,Soft Rock and Ballads
+562,Player’s Anthem - Junior M.A.F.I.A. featuring The Notorious B.I.G.,2,Hip-Hop and Rap Anthems
+563,Freek’n You - Jodeci,9,R&B and Soul Vibes
+564,I’d Lie For You (AND That’s The Truth) - Meat Loaf,7,Soft Rock and Ballads
+565,I’ll Be There For You/You’re All I Need To Get - by Method Man featuring Mary J. Blige,6,Hip-Hop and Rap Anthems
+566,Nobody - Keith Sweat featuring Athena Cage,8,R&B and Soul Vibes
+567,Time - Hootie & the Blowfish,2,Pop and Rock Classics
+568,Hay - Crucial Conflict,3,Hip-Hop and Rap Anthems
+569,Jealousy - Natalie Merchant,1,Alternative and Indie Playlist
+570,Be My Lover - La Bouche,9,Dance and Electronic Hits
+571,Wonder - Natalie Merchant,1,Alternative and Indie Playlist
+572,1979 - The Smashing Pumpkins,8,Alternative and Indie Playlist
+573,No Diggity - Blackstreet featuring Dr. Dre,8,R&B and Soul Vibes
+574,Sweet Dreams - La Bouche,9,Dance and Electronic Hits
+575,Wonderwall - Oasis,8,Alternative and Indie Playlist
+576,Anything - 3T,3,Hip-Hop and Rap Anthems
+577,Because You Loved Me - Celine Dion,5,Emotional and Heartfelt Songs
+578,Ironic - Alanis Morissette,1,Alternative and Indie Playlist
+579,Lady - D’Angelo,1,R&B and Soul Vibes
+580,Give Me One Reason - Tracy Chapman,1,Pop and Rock Classics
+581,Count On Me - Whitney Houston featuring CeCe Winans,5,R&B and Soul Vibes
+582,Hey Lover - LL Cool J,9,Hip-Hop and Rap Anthems
+583,Always Be My Baby - Mariah Carey,5,R&B and Soul Vibes
+584,Kiss From A Rose - Seal,1,Emotional and Heartfelt Songs
+585,Nobody Knows - The Tony Rich Project,0,Emotional and Heartfelt Songs
+586,You’ll See - Madonna,5,Pop and Rock Classics
+587,Breakfast At Tiffany’s - Deep Blue Something,7,Alternative and Indie Playlist
+588,Only Wanna Be With You - Hootie & the Blowfish,9,Soft Rock and Ballads
+589,Only You - 112 featuring The Notorious B.I.G. and Mase,8,Hip-Hop and Rap Anthems
+590,Twisted - Keith Sweat,8,R&B and Soul Vibes
+591,Hook - Blues Traveler,2,Alternative and Indie Playlist
+592,Doin’ It - LL Cool J,4,Hip-Hop and Rap Anthems
+593,One Sweet Day - Mariah Carey and Boyz II Men,5,R&B and Soul Vibes
+594,Tha Crossroads - Bone Thugs-n-Harmony,8,Hip-Hop and Rap Anthems
+595,Missing - Everything but the Girl,1,Dance and Electronic Hits
+596,Beautiful Life - Ace of Base,7,Dance and Electronic Hits
+597,Mouth - Merril Bainbridge,1,Alternative and Indie Playlist
+598,Fastlove - George Michael,7,Pop and Rock Classics
+599,If It Makes You Happy - Sheryl Crow,1,Alternative and Indie Playlist
+600,Roll To Me - Del Amitri,9,Pop and Rock Classics
+601,The World I Know - Collective Soul,7,Alternative and Indie Playlist
+602,Jesus To A Child - George Michael,7,Emotional and Heartfelt Songs
+603,Loungin - LL Cool J,9,Hip-Hop and Rap Anthems
+604,Soon As I Get Home - Faith Evans,6,R&B and Soul Vibes
+605,All The Things (YOUR Man Won’t Do) - Joe,6,R&B and Soul Vibes
+606,Counting Blue Cars - Dishwalla,3,Alternative and Indie Playlist
+607,If Your Girl Only Knew - Aaliyah,1,R&B and Soul Vibes
+608,Kissin’ You - Total,9,R&B and Soul Vibes
+609,Until It Sleeps - Metallica,6,Pop and Rock Classics
+610,Who Will Save Your Soul - Jewel,1,Emotional and Heartfelt Songs
+611,Elevators (ME & You) - Outkast,8,Hip-Hop and Rap Anthems
+612,One Of Us - Joan Osborne,1,Emotional and Heartfelt Songs
+613,Children - Robert Miles,7,Dance and Electronic Hits
+614,Theme From Mission: Impossible - Adam Clayton and Larry Mullen,0,Dance and Electronic Hits
+615,Where Do You Go - No Mercy,6,Dance and Electronic Hits
+616,Diggin’ On You - TLC,4,R&B and Soul Vibes
+617,Exhale (SHOOP Shoop) - Whitney Houston,5,Emotional and Heartfelt Songs
+618,Gangsta’s Paradise - Coolio featuring L.V.,8,Hip-Hop and Rap Anthems
+619,Sittin’ Up In My Room - Brandy,8,R&B and Soul Vibes
+620,"Touch Me, Tease Me - Case featuring Foxy Brown",2,Hip-Hop and Rap Anthems
+621,Insensitive - Jann Arden,3,Emotional and Heartfelt Songs
+622,Po Pimp - Do or Die featuring Twista,8,Hip-Hop and Rap Anthems
+623,Woo Hah!! Got You All In Check - Busta Rhymes,2,Hip-Hop and Rap Anthems
+624,Hit Me Off - New Edition,4,R&B and Soul Vibes
+625,Not Gon’ Cry - Mary J. Blige,5,R&B and Soul Vibes
+626,You’re The One - SWV,3,R&B and Soul Vibes
+627,"1, 2, 3, 4 (SUMPIN’ New) - Coolio",2,Hip-Hop and Rap Anthems
+628,Free As A Bird - the Beatles,7,Pop and Rock Classics
+629,Who Do U Love - Deborah Cox,1,R&B and Soul Vibes
+630,Down Low (NOBODY Has To Know) - R. Kelly featuring The Isley Brothers,8,R&B and Soul Vibes
+631,I Want To Come Over - Melissa Etheridge,1,Emotional and Heartfelt Songs
+632,Key West Intermezzo (I Saw You First) - John Mellencamp,7,Pop and Rock Classics
+633,Set U Free - Planet Soul,3,Dance and Electronic Hits
+634,You Remind Me Of Something - R. Kelly,6,R&B and Soul Vibes
+635,Closer To Free - BoDeans,3,Soft Rock and Ballads
+636,"Keep On, Keepin’ On - MC Lyte featuring Xscape",4,Hip-Hop and Rap Anthems
+637,"The Earth, The Sun, The Rain - Color Me Badd",3,R&B and Soul Vibes
+638,I Can’t Sleep Baby (IF I) - R. Kelly,6,R&B and Soul Vibes
+639,Let’s Make A Night To Remember - Bryan Adams,6,Soft Rock and Ballads
+640,Tell Me - Groove Theory,3,R&B and Soul Vibes
+641,C’mon N’ Ride It (THE Train) - Quad City DJ’s,8,Dance and Electronic Hits
+642,Old Man And Me (WHEN I Get To Heaven) - Hootie & the Blowfish,7,Soft Rock and Ballads
+643,Tonite’s Tha Night - Kris Kross,9,Hip-Hop and Rap Anthems
+644,Someone - SWV and Puff Daddy,2,R&B and Soul Vibes
+645,Nobody - Keith Sweat,6,R&B and Soul Vibes
+646,Pony - Ginuwine,8,R&B and Soul Vibes
+647,On & On - Erykah Badu,3,R&B and Soul Vibes
+648,Last Night - Az Yet,4,Emotional and Heartfelt Songs
+649,Everything - Mary J. Blige,5,R&B and Soul Vibes
+650,Wannabe - Spice Girls,9,Pop and Rock Classics
+651,Hypnotize - The Notorious B.I.G.,3,Hip-Hop and Rap Anthems
+652,I Want You - Savage Garden,9,Pop and Rock Classics
+653,Change The World - Eric Clapton,7,Soft Rock and Ballads
+654,Return Of The Mack - Mark Morrison,0,Pop and Rock Classics
+655,Barbie Girl - Aqua,1,Dance and Electronic Hits
+656,Cupid - 112,3,Emotional and Heartfelt Songs
+657,Honey - Mariah Carey,5,R&B and Soul Vibes
+658,Semi-Charmed Life - Third Eye Blind,4,Alternative and Indie Playlist
+659,Criminal - Fiona Apple,1,Alternative and Indie Playlist
+660,What About Us - Total,3,R&B and Soul Vibes
+661,Mo Money Mo Problems - The Notorious B.I.G. featuring Puff Daddy and Mase,8,Hip-Hop and Rap Anthems
+662,Bitch - Meredith Brooks,1,Alternative and Indie Playlist
+663,All By Myself - Celine Dion,5,Emotional and Heartfelt Songs
+664,I Love You Always Forever - Donna Lewis,5,Emotional and Heartfelt Songs
+665,In My Bed - Dru Hill,8,R&B and Soul Vibes
+666,No Time - Lil’ Kim featuring Puff Daddy,8,Hip-Hop and Rap Anthems
+667,Un-Break My Heart - Toni Braxton,5,Emotional and Heartfelt Songs
+668,Your Woman - White Town,1,Alternative and Indie Playlist
+669,Get It Together - 702,2,R&B and Soul Vibes
+670,Mmmbop - Hanson,2,Pop and Rock Classics
+671,You Make Me Wanna… - Usher,6,R&B and Soul Vibes
+672,How Do I Live - LeAnn Rimes,4,Country Melodies
+673,2 Become 1 - Spice Girls,3,Pop and Rock Classics
+674,All For You - Sister Hazel,1,Alternative and Indie Playlist
+675,Fly Like An Eagle - Seal,3,Pop and Rock Classics
+676,Da’ Dip - Freak Nasty,2,Dance and Electronic Hits
+677,I Shot The Sheriff - Warren G,3,Hip-Hop and Rap Anthems
+678,I’ll Be - Foxy Brown featuring Jay-Z,2,Hip-Hop and Rap Anthems
+679,Smile - Scarface featuring 2Pac and Johnny P.,8,Hip-Hop and Rap Anthems
+680,When You Love A Woman - Journey,1,Soft Rock and Ballads
+681,Secret Garden - Bruce Springsteen,7,Soft Rock and Ballads
+682,I Finally Found Someone - Barbra Streisand and Bryan Adams,6,Emotional and Heartfelt Songs
+683,Every Time I Close My Eyes - Babyface,9,R&B and Soul Vibes
+684,Step By Step - Whitney Houston,5,R&B and Soul Vibes
+685,The Freshmen - The Verve Pipe,8,Alternative and Indie Playlist
+686,I Believe I Can Fly - R. Kelly,6,Emotional and Heartfelt Songs
+687,Look Into My Eyes - Bone Thugs-n-Harmony,8,Hip-Hop and Rap Anthems
+688,Barely Breathing - Duncan Sheik,2,Alternative and Indie Playlist
+689,My Body - LSG,2,R&B and Soul Vibes
+690,This Is For The Lover In You - Babyface featuring LL Cool J and Shalamar,9,R&B and Soul Vibes
+691,This Is Your Night - Amber,1,Dance and Electronic Hits
+692,For You I Will - Monica,1,Emotional and Heartfelt Songs
+693,Quit Playing Games (WITH My Heart) - Backstreet Boys,6,Pop and Rock Classics
+694,Where Do You Go - No Mercy,6,Dance and Electronic Hits
+695,Sunny Came Home - Shawn Colvin,6,Soft Rock and Ballads
+696,Building A Mystery - Sarah McLachlan,1,Alternative and Indie Playlist
+697,C U When U Get There - Coolio featuring 40 Thevz,2,Hip-Hop and Rap Anthems
+698,Everyday Is A Winding Road - Sheryl Crow,1,Alternative and Indie Playlist
+699,The One I Gave My Heart To - Aaliyah,5,Emotional and Heartfelt Songs
+700,Feels So Good - Mase,9,Hip-Hop and Rap Anthems
+701,Butta Love - Next,9,R&B and Soul Vibes
+702,Ooh Aah… Just A Little Bit - Gina G,1,Dance and Electronic Hits
+703,What Kind Of Man Would I Be - Mint Condition,0,R&B and Soul Vibes
+704,Cold Rock A Party - MC Lyte,8,Hip-Hop and Rap Anthems
+705,I Belong To You (EVERY Time I See Your Face) - Rome,6,R&B and Soul Vibes
+706,"Not Tonight - Lil’ Kim featuring Da Brat, Left Eye, Missy Elliott and Angie Martinez",8,Hip-Hop and Rap Anthems
+707,Where Have All The Cowboys Gone? - Paula Cole,6,Emotional and Heartfelt Songs
+708,I Believe In You And Me - Whitney Houston,5,Emotional and Heartfelt Songs
+709,Gotham City - R. Kelly,8,R&B and Soul Vibes
+710,4 Seasons Of Loneliness - Boyz II Men,7,R&B and Soul Vibes
+711,G.H.E.T.T.O.U.T. - Changing Faces,3,R&B and Soul Vibes
+712,Never Make A Promise - Dru Hill,6,R&B and Soul Vibes
+713,Don’t Let Go (LOVE) - En Vogue,5,Emotional and Heartfelt Songs
+714,I’m Still In Love With You - New Edition,9,R&B and Soul Vibes
+715,Don’t Wanna Be A Player - Joe,0,R&B and Soul Vibes
+716,Invisible Man - 98 Degrees,2,Emotional and Heartfelt Songs
+717,My Love Is The Shhh! - Somethin’ for the People featuring Trina & Tamara,8,Hip-Hop and Rap Anthems
+718,Do You Know (WHAT It Takes) - Robyn,1,Dance and Electronic Hits
+719,Hard To Say I’m Sorry - Az Yet featuring Peter Cetera,8,Soft Rock and Ballads
+720,I Miss My Homies - Master P featuring Pimp C & the Shocker,2,Hip-Hop and Rap Anthems
+721,Up Jumps Da Boogie - Timbaland & Magoo featuring Missy Elliott and Aaliyah,8,Hip-Hop and Rap Anthems
+722,Big Daddy - Heavy D,2,Hip-Hop and Rap Anthems
+723,Say You’ll Be There - Spice Girls,4,Pop and Rock Classics
+724,You Should Be Mine (DON’T Waste Your Time) - Brian McKnight featuring Mase,6,R&B and Soul Vibes
+725,My Baby Daddy - B-Rock and the Bizz,8,Hip-Hop and Rap Anthems
+726,Don’t Cry For Me Argentina - Madonna,5,Emotional and Heartfelt Songs
+727,It’s All Coming Back To Me Now - Celine Dion,5,Emotional and Heartfelt Songs
+728,I’ll Be Missing You - Puff Daddy featuring Faith Evans and 112,8,Hip-Hop and Rap Anthems
+729,What’s On Tonight - Montell Jordan,9,R&B and Soul Vibes
+730,Macarena (BAYSIDE Boys Mix) - Los del Río,9,Dance and Electronic Hits
+731,It’s Your Love - Tim McGraw and Faith Hill,5,Country Melodies
+732,Can’t Nobody Hold Me Down - Puff Daddy featuring Mase,8,Hip-Hop and Rap Anthems
+733,Cruel Summer - Ace of Base,8,Nostalgic 90s Tunes
+734,One Week - Barenaked Ladies,1,Alternative and Indie Playlist
+735,My All - Mariah Carey,5,Emotional and Heartfelt Songs
+736,The Boy Is Mine - Brandy and Monica,8,R&B and Soul Vibes
+737,Father - LL Cool J,2,Hip-Hop and Rap Anthems
+738,How Deep Is Your Love - Dru Hill featuring Redman,7,R&B and Soul Vibes
+739,Time After Time - INOJ,4,Pop and Rock Classics
+740,Bitter Sweet Symphony - The Verve,8,Alternative and Indie Playlist
+741,My Way - Usher,6,R&B and Soul Vibes
+742,Lookin’ At Me - Mase featuring Puff Daddy,8,Hip-Hop and Rap Anthems
+743,Doo Wop (THAT Thing) - Lauryn Hill,8,R&B and Soul Vibes
+744,I Want You Back - ‘N Sync,2,Pop and Rock Classics
+745,Dangerous - Busta Rhymes,8,Hip-Hop and Rap Anthems
+746,Say It - Voices of Theory,3,R&B and Soul Vibes
+747,All My Life - K-Ci & JoJo,9,Emotional and Heartfelt Songs
+748,Come With Me - Puff Daddy featuring Jimmy Page,8,Hip-Hop and Rap Anthems
+749,My Heart Will Go On - Celine Dion,5,Emotional and Heartfelt Songs
+750,I Don’t Want To Miss A Thing - Aerosmith,6,Soft Rock and Ballads
+751,Just The Two Of Us - Will Smith,0,Hip-Hop and Rap Anthems
+752,Gettin’ Jiggy Wit It - Will Smith,2,Hip-Hop and Rap Anthems
+753,Show Me Love - Robyn,1,Dance and Electronic Hits
+754,Stop - Spice Girls,4,Pop and Rock Classics
+755,I Still Love You - Next,9,R&B and Soul Vibes
+756,What You Want - Mase featuring Total,9,R&B and Soul Vibes
+757,Still Not A Player - Big Pun featuring Joe,0,Hip-Hop and Rap Anthems
+758,Daydreamin’ - Tatyana Ali,1,R&B and Soul Vibes
+759,I Do - Lisa Loeb,1,Alternative and Indie Playlist
+760,"No, No, No - Destiny’s Child",3,R&B and Soul Vibes
+761,The First Night - Monica,1,R&B and Soul Vibes
+762,Truly Madly Deeply - Savage Garden,7,Emotional and Heartfelt Songs
+763,Frozen - Madonna,5,Pop and Rock Classics
+764,Ghetto Supastar (THAT Is What You Are) - Pras Michel featuring Ol’ Dirty Bastard and Mýa,8,Hip-Hop and Rap Anthems
+765,How Do I Live - LeAnn Rimes,4,Country Melodies
+766,I Can Do That - Montell Jordan,4,R&B and Soul Vibes
+767,Touch It - Monifah,4,R&B and Soul Vibes
+768,Tubthumping - Chumbawamba,3,Alternative and Indie Playlist
+769,Crush - Jennifer Paige,1,R&B and Soul Vibes
+770,Feel So Good - Mase featuring Kelly Price,8,Hip-Hop and Rap Anthems
+771,Never Ever - All Saints,7,Emotional and Heartfelt Songs
+772,Spice Up Your Life - Spice Girls,9,Nostalgic 90s Tunes
+773,Too Close - Next,4,R&B and Soul Vibes
+774,I’ll Be - Edwin McCain,0,Soft Rock and Ballads
+775,Too Much - Spice Girls,4,Pop and Rock Classics
+776,Together Again - Janet,5,Dance and Electronic Hits
+777,I Don’t Want To Wait - Paula Cole,6,Emotional and Heartfelt Songs
+778,Kiss The Rain - Billie Myers,6,Emotional and Heartfelt Songs
+779,Let’s Ride - Montell Jordan featuring Master P and Silkk the Shocker,2,Hip-Hop and Rap Anthems
+780,The Power Of Good-Bye - Madonna,5,Pop and Rock Classics
+781,Victory - Puff Daddy featuring The Notorious B.I.G. and Busta Rhymes,8,Hip-Hop and Rap Anthems
+782,Ray Of Light - Madonna,5,Pop and Rock Classics
+783,Everybody (BACKSTREET’S Back) - Backstreet Boys,8,Nostalgic 90s Tunes
+784,Gone Till November - Wyclef Jean,2,R&B and Soul Vibes
+785,My Body - LSG,2,R&B and Soul Vibes
+786,Something About The Way You Look Tonight / Candle In The Wind 1997 - Elton John,7,Soft Rock and Ballads
+787,Westside - TQ,4,R&B and Soul Vibes
+788,I Get Lonely - Janet Jackson featuring Blackstreet,5,R&B and Soul Vibes
+789,Nobody’s Supposed To Be Here - Deborah Cox,1,R&B and Soul Vibes
+790,Romeo And Juliet - Sylk-E. Fyne featuring Chill,7,Hip-Hop and Rap Anthems
+791,Swing My Way - K. P. & Envyi,9,R&B and Soul Vibes
+792,The One I Gave My Heart To - Aaliyah,5,R&B and Soul Vibes
+793,Butta Love - Next,9,R&B and Soul Vibes
+794,I Will Come To You - Hanson,6,Soft Rock and Ballads
+795,"Money, Power & Respect - The LOX featuring DMX and Lil’ Kim",8,Hip-Hop and Rap Anthems
+796,Nobody Does It Better - Nate Dogg Featuring Warren G,8,Hip-Hop and Rap Anthems
+797,I Don’t Ever Want To See You Again - Uncle Sam,6,Soft Rock and Ballads
+798,My Little Secret - Xscape,2,R&B and Soul Vibes
+799,A Song For Mama - Boyz II Men,2,Emotional and Heartfelt Songs
+800,Turn It Up (REMIX)/FIRE It Up - Busta Rhymes,8,Hip-Hop and Rap Anthems
+801,Make It Hot - Nicole featuring Missy Elliott and Mocha,8,R&B and Soul Vibes
+802,When The Lights Go Out - Five,4,Nostalgic 90s Tunes
+803,All Cried Out - Allure featuring 112,8,R&B and Soul Vibes
+804,Friend Of Mine - Kelly Price featuring R. Kelly and Ron Isley,8,R&B and Soul Vibes
+805,Still A G Thang - Snoop Dogg,3,Hip-Hop and Rap Anthems
+806,Body Bumpin’ (YIPPIE-YI-YO) - Public Announcement,3,Hip-Hop and Rap Anthems
+807,Deja Vu (UPTOWN Baby) - Lord Tariq and Peter Gunz,8,Hip-Hop and Rap Anthems
+808,The Mummers’ Dance - Loreena McKennitt,1,Dance and Electronic Hits
+809,Nice And Slow - Usher,6,R&B and Soul Vibes
+810,Sex And Candy - Marcy Playground,8,Alternative and Indie Playlist
+811,Looking Through Your Eyes - LeAnn Rimes,1,Emotional and Heartfelt Songs
+812,You’re Still The One - Shania Twain,6,Country Melodies
+813,Are You Jimmy Ray? - Jimmy Ray,0,Pop and Rock Classics
+814,Come And Get With Me - Keith Sweat Featuring Snoop Dogg,8,R&B and Soul Vibes
+815,Thinkin’ Bout It - Gerald Levert,6,R&B and Soul Vibes
+816,The Arms Of The One Who Loves You - Xscape,7,Emotional and Heartfelt Songs
+817,"Make ‘EM Say Uhh! - Master P featuring Fiend, Silkk the Shocker, Mia X and Mystikal",2,Hip-Hop and Rap Anthems
+818,I Got The Hook Up - Master P featuring Sons of Funk,8,Hip-Hop and Rap Anthems
+819,Adia / Angel - Sarah McLachlan,1,Emotional and Heartfelt Songs
+820,Are U Still Down / They Don’t Know - Jon B.,4,R&B and Soul Vibes
+821,It’s All About Me - Mýa and Sisqo,3,Hip-Hop and Rap Anthems
+822,How’s It Going To Be - Third Eye Blind,4,Alternative and Indie Playlist
+823,We’re Not Making Love No More - Dru Hill,6,R&B and Soul Vibes
+824,Have You Ever? - Brandy,1,R&B and Soul Vibes
+825,Iris - Goo Goo Dolls,8,Pop and Rock Classics
+826,All Night Long - Faith Evans featuring Puff Daddy,8,R&B and Soul Vibes
+827,All Star - Smash Mouth,2,Nostalgic 90s Tunes
+828,Believe - Cher,4,Dance and Electronic Hits
+829,Fortunate - Maxwell,2,R&B and Soul Vibes
+830,I Want It That Way - Backstreet Boys,6,Nostalgic 90s Tunes
+831,No Scrubs - TLC,3,Hip-Hop and Rap Anthems
+832,You - Jesse Powell,6,R&B and Soul Vibes
+833,…BABY One More Time - Britney Spears,5,Nostalgic 90s Tunes
+834,If You - Silk,4,R&B and Soul Vibes
+835,Kiss Me - Sixpence None the Richer,9,Soft Rock and Ballads
+836,Scar Tissue - Red Hot Chili Peppers,8,Pop and Rock Classics
+837,Smooth - Santana featuring Rob Thomas,8,Pop and Rock Classics
+838,Mambo No. 5 - Lou Bega,4,Dance and Electronic Hits
+839,Slide - Goo Goo Dolls,8,Pop and Rock Classics
+840,Genie In A Bottle - Christina Aguilera,1,Nostalgic 90s Tunes
+841,Miami - Will Smith,0,Hip-Hop and Rap Anthems
+842,Angel - Sarah McLachlan,1,Emotional and Heartfelt Songs
+843,Ex-Factor - Lauryn Hill,1,R&B and Soul Vibes
+844,Livin’ La Vida Loca - Ricky Martin,9,Pop and Rock Classics
+845,Because Of You - 98 Degrees,4,Pop and Rock Classics
+846,Fly Away - Lenny Kravitz,2,Pop and Rock Classics
+847,Heartbreaker - Mariah Carey featuring Jay-Z,5,Pop and Rock Classics
+848,I Don’t Want To Miss A Thing - Mark Chesnutt,0,Country Melodies
+849,Hands - Jewel,1,Emotional and Heartfelt Songs
+850,Every Morning - Sugar Ray,8,Alternative and Indie Playlist
+851,Someday - Sugar Ray,8,Alternative and Indie Playlist
+852,She’s So High - Tal Bachman,1,Emotional and Heartfelt Songs
+853,What It’s Like - Everlast,9,Alternative and Indie Playlist
+854,"Bills, Bills, Bills - Destiny’s Child",0,R&B and Soul Vibes
+855,C’est La Vie - B*Witched,3,Pop and Rock Classics
+856,Last Kiss - Pearl Jam,8,Pop and Rock Classics
+857,Sometimes - Britney Spears,5,Pop and Rock Classics
+858,Back At One - Brian McKnight,6,R&B and Soul Vibes
+859,Happily Ever After - Case,3,Pop and Rock Classics
+860,This Kiss - Faith Hill,5,Country Melodies
+861,(YOU Drive Me) Crazy - Britney Spears,5,Pop and Rock Classics
+862,Back That Azz Up - Juvenile featuring Mannie Fresh and Lil Wayne,8,Hip-Hop and Rap Anthems
+863,If You Had My Love - Jennifer Lopez,5,Pop and Rock Classics
+864,Jumper - Third Eye Blind,4,Alternative and Indie Playlist
+865,My Love Is Your Love - Whitney Houston,5,R&B and Soul Vibes
+866,Save Tonight - Eagle-Eye Cherry,6,Alternative and Indie Playlist
+867,So Anxious - Ginuwine,8,R&B and Soul Vibes
+868,Love Like This - Faith Evans,7,R&B and Soul Vibes
+869,Get Gone - Ideal,6,R&B and Soul Vibes
+870,Who Dat - JT Money featuring Solé,3,Hip-Hop and Rap Anthems
+871,Can I Get A… - Jay-Z featuring Amil and Ja Rule,2,Hip-Hop and Rap Anthems
+872,From This Moment On - Shania Twain,1,Country Melodies
+873,Lost In You - Garth Brooks as Chris Gaines,6,Country Melodies
+874,Steal My Sunshine - Len,6,Alternative and Indie Playlist
+875,That Don’t Impress Me Much - Shania Twain,5,Pop and Rock Classics
+876,Angel Of Mine - Monica,5,R&B and Soul Vibes
+877,I Do (CHERISH You) - 98 Degrees,4,Soft Rock and Ballads
+878,Trippin’ - Total featuring Missy Elliott,8,R&B and Soul Vibes
+879,Bailamos - Enrique Iglesias,9,Dance and Electronic Hits
+880,Black Balloon - Goo Goo Dolls,8,Alternative and Indie Playlist
+881,Sweet Lady - Tyrese,1,R&B and Soul Vibes
+882,Unpretty - TLC,3,R&B and Soul Vibes
+883,Where My Girls At? - 702,4,R&B and Soul Vibes
+884,Summer Girls - LFO,9,Nostalgic 90s Tunes
+885,Anywhere - 112 featuring Lil Zane,8,R&B and Soul Vibes
+886,Heartbreak Hotel - Whitney Houston featuring Faith Evans and Kelly Price,5,R&B and Soul Vibes
+887,Lullaby - Shawn Mullins,8,Soft Rock and Ballads
+888,Spend My Life With You - Eric Benét featuring Tamia,9,Emotional and Heartfelt Songs
+889,Tell Me It’s Real - K-Ci & JoJo,3,R&B and Soul Vibes
+890,Faded Pictures - Case featuring Joe,0,R&B and Soul Vibes
+891,We Can’t Be Friends - Deborah Cox & R.L.,1,R&B and Soul Vibes
+892,Back 2 Good - Matchbox 20,4,Soft Rock and Ballads
+893,These Are The Times - Dru Hill,4,R&B and Soul Vibes
+894,I Still Believe - Mariah Carey,5,Pop and Rock Classics
+895,Lately - Divine,9,Nostalgic 90s Tunes
+896,The Hardest Thing - 98 Degrees,4,Soft Rock and Ballads
+897,808 - Blaque,3,R&B and Soul Vibes
+898,Ghetto Cowboy - Mo Thugs,8,Hip-Hop and Rap Anthems
+899,I Need To Know - Marc Anthony,3,Pop and Rock Classics
+900,My Favorite Mistake - Sheryl Crow,1,Soft Rock and Ballads
+901,(GOD Must Have Spent) A Little More Time On You - ‘N Sync,4,Nostalgic 90s Tunes
+902,Satisfy You - Puff Daddy featuring R. Kelly,8,R&B and Soul Vibes
+903,All I Have To Give - Backstreet Boys,6,Nostalgic 90s Tunes
+904,Wild Wild West - Will Smith featuring Dru Hill and Kool Moe Dee,8,Hip-Hop and Rap Anthems
+905,I Will Remember You - Sarah McLachlan,1,Emotional and Heartfelt Songs
+906,Jamboree - Naughty by Nature featuring Zhané,8,Hip-Hop and Rap Anthems
+907,Please Remember Me - Tim McGraw,6,Country Melodies
+908,"Take Me There - Blackstreet featuring Mýa, Mase and Blinky Blink",8,Hip-Hop and Rap Anthems
+909,Stay The Same - Joey McIntyre,0,Nostalgic 90s Tunes
+910,Give It To You - Jordan Knight,6,Nostalgic 90s Tunes
+911,She’s All I Ever Had - Ricky Martin,1,Emotional and Heartfelt Songs
+912,Music Of My Heart - ‘N Sync and Gloria Estefan,5,Pop and Rock Classics
+913,It’s Not Right But It’s Okay - Whitney Houston,5,Pop and Rock Classics
+914,No Pigeons - Sporty Thievz Featuring Mr. Woods,2,Hip-Hop and Rap Anthems
+915,I’m Your Angel - R. Kelly and Celine Dion,5,R&B and Soul Vibes
+916,Taking Everything - Gerald Levert,6,R&B and Soul Vibes
+917,What’s It Gonna Be?! - Busta Rhymes featuring Janet,8,Hip-Hop and Rap Anthems
+918,Almost Doesn’t Count - Brandy,1,R&B and Soul Vibes
+919,It Ain’t My Fault 1 & 2 - Silkk the Shocker Featuring Mystikal,8,Hip-Hop and Rap Anthems
