@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import silhouette_score
 
 # Load the dataset
-file_path = 'dataset/npr.csv'
+file_path = 'dataset/restaruant.csv'
 df = pd.read_csv(file_path)
 
 # Load a pre-trained Sentence Transformer model
@@ -27,26 +27,26 @@ for k in K:
     silhouette_avg = silhouette_score(embeddings, cluster_labels)
     silhouette_scores.append(silhouette_avg)
 
-# Plot the Elbow Method graph
-plt.figure(figsize=(14, 6))
+# # Plot the Elbow Method graph
+# plt.figure(figsize=(14, 6))
 
-plt.subplot(1, 2, 1)
-plt.plot(K, inertia, 'bo-')
-plt.xlabel('Number of clusters (k)')
-plt.ylabel('Inertia')
-plt.title('Elbow Method For Optimal k')
-plt.grid(True)
+# plt.subplot(1, 2, 1)
+# plt.plot(K, inertia, 'bo-')
+# plt.xlabel('Number of clusters (k)')
+# plt.ylabel('Inertia')
+# plt.title('Elbow Method For Optimal k')
+# plt.grid(True)
 
-# Plot the Silhouette Scores
-plt.subplot(1, 2, 2)
-plt.plot(K, silhouette_scores, 'bo-')
-plt.xlabel('Number of clusters (k)')
-plt.ylabel('Silhouette Score')
-plt.title('Silhouette Scores for Optimal k')
-plt.grid(True)
+# # Plot the Silhouette Scores
+# plt.subplot(1, 2, 2)
+# plt.plot(K, silhouette_scores, 'bo-')
+# plt.xlabel('Number of clusters (k)')
+# plt.ylabel('Silhouette Score')
+# plt.title('Silhouette Scores for Optimal k')
+# plt.grid(True)
 
-plt.tight_layout()
-plt.show()
+# plt.tight_layout()
+# plt.show()
 
 # Determine the best k (highest silhouette score)
 best_k = K[silhouette_scores.index(max(silhouette_scores))]
