@@ -38,11 +38,14 @@ def sample_clusters(df, n_clusters):
     return pd.concat(samples)
 
 # Function to refine categories using OpenAI structured outputs
-def refine_categories(samples):
-    prompt = '''
+def refine_categories(samples, user_prompt):
+    prompt = f'''
     You are an AI assistant that refines text clustering by assigning categories.
-    The input is a set of text clusters, and your task is to provide a category for each cluster.
+    The input is a set of text clusters, and your task is to provide a category based on the clusters.
+    The number of categories doesn't have to be the same as the number of clusters. Make sensible categories.
+    # You can also ignore the cluster field if you want. 
     These texts have been clustered together based on their content using BERT embeddings and KMeans clustering.
+    User input: {user_prompt}
     '''
 
     # Sample JSON schema
@@ -63,9 +66,10 @@ def refine_categories(samples):
     }
 
     # Prepare the input for the LLM
-    # clusters = samples.groupby('cluster')['text'].apply(lambda x: "\n".join(x))
-    clusters = samples.groupby('cluster')['text'].apply(lambda x: "\n".join(x)).to_dict()
+    clusters = samples['text'].apply(lambda x: "\n".join(x)).to_dict()
+    # drop the cluster column:
     clusters_json = json.dumps(clusters)
+    print(clusters_json)
 
     response = client.chat.completions.create(
         model=MODEL,
@@ -81,10 +85,79 @@ def refine_categories(samples):
 
     return response.choices[0].message.content
 
+# Function to generate categories for each chunk
+def generate_categories_for_chunks(df, refined_categories, user_prompt):
+    chunk_size = 20
+    df['category'] = ''
+
+    json_schema = {
+        "name": "row",
+        'schema': {
+            "type": "object",
+            "properties": {
+                "rows": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {"type": "string"},
+                            "category": {"type": "string"}
+                        },
+                        "required": ["id", "category"],
+                        "additionalProperties": False
+                    }
+                }
+            },
+            "required": ["rows"],
+            "additionalProperties": False
+        },
+        "strict": True
+    }
+
+
+    for i in range(0, len(df), chunk_size):  # Iterate through chunks of data
+        chunk = df.iloc[i:i + chunk_size]
+        chunk_prompt = f'''
+        You are an AI assistant that generates categories for text data.
+        Here is a chunk of data with its tentative clusters and a refined category set provided by the user.
+        Use the refined categories and the user input to generate a suitable category for each row.
+        Refined Categories: {', '.join(refined_categories)}
+        User input: {user_prompt}
+        '''
+
+
+        chunk_input = chunk.to_json(orient='records')
+
+        print(chunk_input)
+        response = client.chat.completions.create(
+            model=MODEL,
+            messages=[
+                {"role": "system", "content": chunk_prompt},
+                {"role": "user", "content": chunk_input}
+            ],
+            response_format={
+                "type": "json_schema",
+                "json_schema": json_schema,
+            }
+        )
+
+        chunk_categories = json.loads(response.choices[0].message.content)
+        print(chunk_categories)
+
+        # Assuming the response is in the format of a list of categories corresponding to each row
+        for item in chunk_categories['rows']:
+            id_value = int(item['id'])  # Convert id to integer
+            df.loc[df['id'] == id_value, 'category'] = item['category']
+            # print(f"ID: {id_value}, Category: {item['category']}")
+            # print(df.loc[df['id'] == id_value])
+
+    return df
+
 @click.command()
 @click.argument('input_file', type=click.Path(exists=True))
 @click.option('--output_file', default='output.csv', help='Output CSV file name')
-def main(input_file, output_file):
+@click.option('--user_input', prompt='Please provide additional input for the LLM:', help='User input to be passed to the LLM')
+def main(input_file, output_file, user_input):
     # Load the dataset
     df = pd.read_csv(input_file)
 
@@ -96,22 +169,20 @@ def main(input_file, output_file):
 
     # Sample rows from each cluster
     samples = sample_clusters(df, n_clusters)
+    # drop the cluster column:
+    samples = samples.drop('cluster', axis=1)
 
     # Refine categories using OpenAI's structured output
-    refined_categories = refine_categories(samples)
+    refined_categories = refine_categories(samples, user_input)
+    refined_categories = json.loads(refined_categories)['categories']
 
-    refined_categories = json.loads(refined_categories)
-
-    refined_categories = refined_categories['categories']
-
-    # Print the refined categories
-    print("Refined Categories:", refined_categories)
-
-    # Map the clusters back to refined categories
-    df['category'] = df['cluster'].map(lambda x: refined_categories[x % len(refined_categories)])
+    # Generate categories for each chunk
+    df = generate_categories_for_chunks(df, refined_categories, user_input)
 
     # Save the final dataset with categories to a CSV file
     df.to_csv(output_file, index=False)
+
+    print(f"Categories have been generated and saved to {output_file}")
 
 if __name__ == '__main__':
     main()
